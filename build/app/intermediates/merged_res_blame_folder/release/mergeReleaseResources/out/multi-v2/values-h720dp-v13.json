@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.kontrakanelite.CREAMY.app-mergeReleaseResources-39:/values-h720dp-v13/values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\derim\\.gradle\\caches\\transforms-4\\7799aa86345a8924f7d3197f3bb6a0b0\\transformed\\appcompat-1.1.0\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        }
+    ]
+}

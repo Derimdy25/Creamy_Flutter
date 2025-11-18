@@ -1,0 +1,1 @@
+ C:\\Users\\derim\\Desktop\\flutter2024\\CREAMY\\.dart_tool\\flutter_build\\d1721469e0694b5f1bc989b1d3080b61\\native_assets.yaml: 
